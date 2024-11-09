@@ -29,6 +29,7 @@ I'm constantly improving my skills with small projects, and I'm committed to kee
 
 If you're interested in collaborating or discussing tech, feel free to reach out! 
 You can also check out my [LinkedIn](https://www.linkedin.com/in/rupeshdahibhate/) for a deeper look into my background and experience.
+For more urgent queries reacht out to my [Email](rupeshdahibhate2003@gmail.com)
 ---
 Looking forward to sharing my journey and connecting with other developers!
 ---
