@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate developer with experience in full
 ### 💡 Side Projects & Experiments
 
 - **Diet Tracker Website**: A health-focused project to log and track daily dietary intake.
-- **Custom Blog Application**: An application focusing on blog creation and updation using a custom made API.
+- **Custom Blog Application**: An application focusing on blog creation and updation using a custom made API with Database.
 - **Newsletter Website**: A platform for daily news updates, currently in ideation and design phase.
 - **Hospital Patient Records Management System using AWS**: A simple application for managing patient records using AWS services like *Amplify, Lambda, API Gateway & DynamoDB*
 
