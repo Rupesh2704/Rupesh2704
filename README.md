@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer with experience in full
 
 ### 🌐 My Tech Stack
 
-- **Languages**: JavaScript, HTML5, CSS3, Java
+- **Languages**: JavaScript, HTML5, CSS3, Java , Reactjs
 - **Frameworks & Libraries**: Node.js
 - **Databases**: SQL
 - **Tools & Technologies**: Git, GitHub, VS Code
